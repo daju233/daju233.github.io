@@ -1,4 +1,5 @@
-  <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
   <title>Assyrian</title>
   <icon>http://example.com/icon.png</icon>
   <subtitle>叹息者的记忆库</subtitle>
