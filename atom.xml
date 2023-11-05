@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-10-11T13:49:10.819Z</updated>
+  <updated>2023-11-03T17:34:53.528Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,55 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>CSharp笔记</title>
+    <link href="http://example.com/2023/11/04/C-%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2023/11/04/C-%E7%AC%94%E8%AE%B0/</id>
+    <published>2023-11-03T17:26:08.000Z</published>
+    <updated>2023-11-03T17:34:53.528Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-索引器的写法&quot;&gt;&lt;a href=&quot;#1-索引器的写法&quot; class=&quot;headerlink&quot; title=&quot;1.索引器的写法&quot;&gt;&lt;/a&gt;1.索引器的写法&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;    using MyNamespace;
+
+namespace</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于HTML的一些笔记</title>
+    <link href="http://example.com/2023/10/21/%E5%85%B3%E4%BA%8EHTML%E7%9A%84%E4%B8%80%E4%BA%9B%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2023/10/21/%E5%85%B3%E4%BA%8EHTML%E7%9A%84%E4%B8%80%E4%BA%9B%E7%AC%94%E8%AE%B0/</id>
+    <published>2023-10-21T12:38:40.000Z</published>
+    <updated>2023-11-04T09:38:07.525Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;TODO&quot;&gt;&lt;a href=&quot;#TODO&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>蹉跎的时光中</title>
     <link href="http://example.com/2023/09/07/%E8%B9%89%E8%B7%8E%E7%9A%84%E6%97%B6%E5%85%89%E4%B8%AD/"/>
     <id>http://example.com/2023/09/07/%E8%B9%89%E8%B7%8E%E7%9A%84%E6%97%B6%E5%85%89%E4%B8%AD/</id>
     <published>2023-09-07T06:31:18.000Z</published>
-    <updated>2023-10-11T13:49:10.819Z</updated>
+    <updated>2023-11-05T11:05:29.854Z</updated>
     
     
       
@@ -40,11 +84,11 @@
   </entry>
   
   <entry>
-    <title>往事回忆之旋球</title>
-    <link href="http://example.com/2023/09/06/%E5%BE%80%E4%BA%8B%E5%9B%9E%E5%BF%86%E4%B9%8B%E6%97%8B%E7%90%83/"/>
-    <id>http://example.com/2023/09/06/%E5%BE%80%E4%BA%8B%E5%9B%9E%E5%BF%86%E4%B9%8B%E6%97%8B%E7%90%83/</id>
+    <title>往事回忆</title>
+    <link href="http://example.com/2023/09/06/%E5%BE%80%E4%BA%8B%E5%9B%9E%E5%BF%86/"/>
+    <id>http://example.com/2023/09/06/%E5%BE%80%E4%BA%8B%E5%9B%9E%E5%BF%86/</id>
     <published>2023-09-06T13:08:38.000Z</published>
-    <updated>2023-09-08T11:13:19.407Z</updated>
+    <updated>2023-10-30T12:30:41.556Z</updated>
     
     
       
